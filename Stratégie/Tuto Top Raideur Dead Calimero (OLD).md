@@ -134,3 +134,60 @@ Vous aurez donc fait quelques chasseurs lourds, mais peu : ils sont coûteux en 
 Votre objectif est double : obtenir les croiseurs qui sont de magnifiques armes de combat et de purs tueurs de chasseurs légers et surtout : obtenir au 15éme jour (de la naissance de l’uni) AU PLUS TARD la tech impulsion 5. Ce point est capital. En effet, au 15éme jour, à la mise à jour de votre uni survenant à 00h05, vous verrez apparaître les premiers inactifs… ceux-ci sont riches, sans défense, et non susceptibles de s’opposer. Des clients idéaux en somme. Quel rapport avec impulsion 5 me demanderez-vous ? Et bien la tech impulsion 5 va doter vos petits transporteurs d’un réacteur à impulsion et les rendra beaucoup plus rapides que vos grands transporteurs. Ainsi, vous arriverez en premier sur les inactifs et raflerez la mise avant vos voisins. Comme on dit à la cantine : premiers arrivés, premiers servis J
 
 Une observation également au sujet des attaques : parfois vous aurez besoin d’envoyer une flotte de combat comportant des croiseurs et des grands transporteurs, ces derniers ralentissant considérablement votre attaque et risquant donc de la faire échouer. Pourquoi ne pas faire passer d’abord les croiseurs seuls pour vaincre l’opposition, suivis des transporteurs ? Quand ceux-ci arriveront, ils trouveront une zone propre, et débarrassée de la flotte adverse qui aurait pu servir à évacuer le butin sur lequel vous lorgnez…
+
+La colonisation
+
+Disposer de colonies, c’est solidement augmenter vos revenus miniers, mais aussi agrandir votre territoire de chasse, et augmenter votre capacité de production en flotte par l’ajout de chantiers spatiaux.
+
+Il me faut tout de suite me situer en contre face à deux principes parfaitement ineptes qu’on entend un peu partout :
+
+-La taille des colonies : jeter une colonie à un départ d'univers au prétexte qu’elle ne fait pas au minimum 200 ou 300 cases revient à suicider son compte. Vous avez vu le prix en deut et cristal d’un colonisateur ? Et puis comptez par vous-même : une colo de 90 cases gérée astucieusement (très peu de deut, satellites solaires au bout d’un certain temps pour ne pas occuper de cases centrales électriques, pas de hangars) vous laisse quand même de quoi monter vos mines, vos robots et chantiers spatiaux de manière ultra confortable… quitte à la jeter plus tard pour vous offrir une colo volante, quand elle aura bien contribué à votre effort de guerre et que détruire 4000 points de mines ne sera plus significatif au regard de votre total de points…
+
+-La disposition des colonies : on voit des joueurs implanter dès le début des colonies sur plusieurs galaxies dans l’espoir d’agrandir leur territoire de chasse. C’est absurde, à plusieurs titres :
+* Les temps et coûts de voyages sont bien trop importants au début du jeu pour justifier des déplacements si lointains au regard de l’importance des cibles.
+* Si vos colonies ne sont pas reliées, vous aurez bien du mal à profiter des revenus qu’elles vous procurent, à moins de sacrifier des slots de flotte pour transporter vos minerais (de toute manière ce sera cher en deut). De plus, elles seront difficiles à défendre, et vous raterez un certain nombre d’opportunités d’interception de flottes adverses (et donc de création de lune également). Enfin, à partir d’une planète donnée, on rayonne en gros à 30 systèmes alentour, et on ne dispose que d’une ou deux flottes de combat. Quel intérêt d’aller se fabriquer un territoire de chasse à 800 systèmes, alors qu’à 30 systèmes de votre planète mère, la faune et la flore vous sont encore inconnues ?
+
+Je recommande plutôt : la première ou les deux premières colonies seront implantées dans le même système que votre planète mère. Transports rapides et économiques, et un autre avantage de taille : quand des lunes auront été crées dans votre secteur, vous serez bien contents de pouvoir baser votre flotte pour une petite somme de deut, et la rendre ainsi inattaquable… les 5 colonies suivantes seront implantées de manière proche, tous les 5 ou 10 systèmes avec des colonies-bornes à 30 systèmes de votre planète mère. Vous garderez de quoi faire une volante, ou encore vous implanterez votre dernière colonie et la détruirez plus tard pour en faire une volante. Exception : si un de vos alliés a déjà une lune ou que vous savez pouvoir vraiment compter sur une lune amie, il est évident qu’allez implanter une colo proche de cette lune sera très vite rentable…
+
+Nous avons défini que vous aviez du temps à consacrer au jeu. Il semble que la manière la plus rationnelle de récupérer vos ressources soit de constituer une flotte de transport allant d’une colo à l’autre en faisant donc une « tournée de relève ». Ca ne mobilise qu’un seul slot de flotte, ce n’est que du mode baser donc ce n’est pas lunable (ou plutôt sans dangers) et ça permet surtout d’acheminer le montant de ressources nécessaire à la fabrication de la prochaine mine sans rien laisser traîner derrière soi.
+
+La composition de la flotte.
+
+On voit un certain nombre de raiders se ruer sur le classement flotte en fabriquant du chasseur léger à tour de bras et quasiment rien d’autre. Réjouissez-vous. D’abord, ils seront un jour paralysés car leur flotte ne conviendra plus pour attaquer ni les colos bunker riches en ressources, ni les flottes adverses. Ensuite, ils constitueront en de très bons casse-croûte pour alimenter vos nanites…
+
+Votre flotte pour être efficace devra être constituée de deux unités de combats principalement :
+
+-Les croiseurs qui sont rapides, économiques en deut, susceptibles de casser les petites défenses (et entre autres les lance-missiles où ils sont plus efficaces que les vbs), intéressants pour les raids colos pendant toute la durée de votre partie et qui constitueront une dissuasion ultime contre les joueurs qui seraient tentés de vous recycler avec des flottes du type vbs+clés.
+
+-Les vbs qui constituent un beau compromis du fait de leur puissance, vitesse, et capacité de fret. On peut par exemple mobiliser une flotte de 100 vbs pour aller chercher du deut sur une colo et rester rentable du fait de ce qu’ils peuvent embarquer. Cela dit, pour en revenir au début de votre partie, ne faites pas les vbs trop vite : souvent les croiseurs suffisent à raider, et vous n’avez pas encore assez de revenus et de deut pour entretenir une flotte de vbs… tout vient à point à qui sait attendre…
+
+*Note sur les autres unités de combats :
+
+-Les clés vous seront utiles plus tard comme tampon d’attaque… peut-être aux alentours des 300 k ou 400 k points (je ne sais pas exactement).
+-Les destructeurs sont une très belle arme anti-flotte lourde. Ils devront être construits avant les bombardiers. Mais restez prudents quant au bon moment pour les obtenir : ça consomme cher ces bébêtes…
+-Les bombardiers sont très efficaces contre les défenses lourdes, pour attaquer des colonies minières très riches ou des flottes particulièrement bien défendues. A ne pas développer avant d’avoir au moins 400 k points. Pour être honnête, je n’ai pas fait assez de simulations encore pour juger s’il valait mieux posséder un énorme tampon de clés ou beaucoup de bombardiers pour attaquer des flottes très défendues… à vous de faire avancer le schmilblick.
+-Les chasseurs lourds : efficaces s’ils sont en grand nombre et accompagnés de vbs contre les flottes vbs+croiseurs. Je ne crois pas à leur utilité avant les 500/600 k points minimum (sauf la petite poignée que vous aurez faite au tout début).
+-L’edlm : une lubie ou un jouet de gosse de riche. Pourquoi pas si vous avez des quantités incroyables de minerais inutiles, mais si tel est le cas, c’est que vous vous êtes peut-être mal organisé. En tous cas, pas vant 600 ou 700 k points... ensuite, c'est à renégocier en raison du phénomène de coût relatif (vos revenus augmentent sans cesse, mais le prix des unités est le même du début à la fin de la partie).
+
+Jusqu'à 600 k points en tous cas : L’argument disant que cela vous permettra de sauver votre flotte pour par cher ne tient pas, étant donnée le coût de développement de graviton, et d’une edlm. L’argument de défense ne tient pas non plus, car le temps que vous mettrez à développer votre edlm pourrait être bien mieux mis à profit pour faire des destructeurs, qui eux ne mettront pas 2 jours pour aller du point a au point b…
+
+Les attaques/la rentabilité.
+
+Souvenez-vous de ce principe : l’avance de développement. C’est un principe qui vaut pour presque tous les jeux de stratégie. Ce qui sous-tend que toutes les attaques ne sont pas forcément intéressantes, même si elles sont rentables. Si le fait de réaliser votre attaque vous prend trop de temps en reconstruction de flotte, vous risquez de la payer cher au final car vous serez potentiellement devenu une cible pour les autres gros joueurs, et vous n’aurez plus la flotte nécessaire pour réaliser les attaques suivantes, un temps donné tout du moins. Tout est affaire d’évaluation.
+
+Vivez sous une lune
+
+Bien entendu, il y a le mode baser. Ce qui veut peut-être d’ailleurs dire que quand vous implantez une volante, le mieux est peut-être d’en implanter deux, pour pouvoir vous baser.
+
+Mais il y aune autre technique qui ne vous garantit pas l’immunité à 100 % mais qui offre un surplus de sécurité non négligeable :
+
+L'écran de phalange donne les flottes à l'aller et les mêmes flottes au retour.
+Deux repères permettent de différencier les flottes sur le retour : leur destination, et leur heure d'arrivée. Mais nous n'avons pas leur composition.
+
+Si nous faisons pointer plusieurs flottes (4 flottes avec quasiment rien et une 5ième qui serait "la grosse flotte") sur la même destination il ne reste qu'un seul repère : le temps.
+
+Si nous faisons varier les vitesses des flottes, il devient impossible de savoir quelle est la grosse flotte, ou plutôt son heure de retour... et pour éviter que cela ne soit calculable selon l'heure de déco, il suffit de les faire partir quelques minutes avant sa déconnexion (15, 20, 30 minutes par exemple...)
+
+Vivez avec une lune
+
+Je ne m’étendrais pas sur ce sujet puisque ce que je sais ne m’appartient pas en propre. Mais comme piste de réflexion, sachez qu’il n’y a qu’une seule manière sûre de sauver une flotte allant d’une lune à un cdr, et que même les voyages de lune à lune peuvent présenter une faille… ce qui signifie qu'avec votre lune et une utilisation astucieuse de vons sondes d'espionnage, vous pourrez "phalanger" des flottes réputées invisibles...
